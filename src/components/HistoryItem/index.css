@@ -1,0 +1,40 @@
+.item {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 10px;
+}
+.time-accessed {
+  color: #475569;
+  font-family: 'roboto';
+  font-weight: 700;
+}
+.history-logo {
+  height: 25px;
+  width: 25px;
+  margin-left: 25px;
+}
+.title {
+  color: #475569;
+  font-family: 'roboto';
+  font-weight: 800;
+  margin-left: 15px;
+}
+.domain-url {
+  color: #475569;
+  font-family: 'roboto';
+  font-weight: 200;
+  margin-left: 15px;
+}
+.delete-image {
+  height: 25px;
+  width: 25px;
+  margin-left: auto;
+}
+.delete-button {
+  outline: none;
+  margin-left: auto;
+  background-color: #f8fafc;
+  border-width: 0px;
+}
